@@ -7,7 +7,7 @@ int main()
     //JOSEPH MENSAH//
     int a, b, c, d, x, y, avg;
     y = 2;
-    cout << "Enter the prime numbers between 1 and 6 to find their Average" << endl;
+    cout << "Enter the prime numbers between 1 and 8 to find their Average" << endl;
     cout << "Enter the first prime number: " <<endl ;
     cin >> a ;
     cout << "Enter the second prime number: " <<endl ;
